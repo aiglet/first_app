@@ -13,3 +13,12 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore flles author thinks I don’t need
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
